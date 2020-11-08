@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603617129 source:c:\users\mah64\task_21_checkifawordispalindrome\main.c
+	<stdio.h>
+	<string.h>
+
